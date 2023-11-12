@@ -30,6 +30,8 @@ Category 4: Normal Non-Toxic Sentences with Profanity
   4. Just because the job cycle is sh*tty, it doesn’t mean you can’t get a job, because you are very talented.
   5. I’m sorry that the customer service was cr*ppy. Hope you’re treated better next time.
 
+Some comments used were copied from this course: https://www.kaggle.com/code/tarunpaparaju/jigsaw-competition-google-perspective-api
+
 Each sentence was sent through the API using code on a Jupyter Notebook, which then outputted the toxicity scores for each statement. Scores equal to or above 0.5 were noted as Toxic, and scores below 0.5 were labeled as Non-Toxic. Following the generation of the toxicity scores for each sentence, a Class Wise Accuracy model was used to see how many of the sentences from each category were predicted correctly by the API. The accuracies outputted are as follows:
   1. Accuracy for 'Toxic without Profanity': 0.6
   2. Accuracy for 'Non-Toxic without Profanity': 1.0
