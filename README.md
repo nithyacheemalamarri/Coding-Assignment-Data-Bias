@@ -8,18 +8,21 @@ Category 1: Highly Toxic Sentences without Profanity
   3. They're greedy, small-minded people.
   4. haha you guys are a bunch of losers.
   5. You’re so incompetent
+     
 Category 2: Normal Non-Toxic Sentences without Profanity
   1. Awesome! Signed up just to give this a shot... good luck to your enterprise!
   2. The research in this paper is well-conducted and thorough.
   3. I love this product, it's so innovative!
   4. Great job on the presentation! Very informative.
   5. Thank you!! This would make my life a lot less anxiety-inducing. Keep it up, and don't let anyone get in your way!
+     
 Category 3: Highly Toxic Sentences with Profanity
   1. ur a sh*tty comment.
   2. This b*tch is nuts. Who would read a book by a woman.
   3. This is the worst thing I've ever read. Bullsh*t!
   4. This is the sh*ttiest experience I’ve ever had.
   5. You are such a m*ron and a waste of time!
+     
 Category 4: Normal Non-Toxic Sentences with Profanity
   1. This is a great story. Man. I wonder if the person who yelled "shut the f*ck up!" at him ever heard it.
   2. Don’t ever listen to his bullsh*t! You deserve way better, and I believe in you.
