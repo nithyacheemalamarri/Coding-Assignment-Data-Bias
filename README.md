@@ -1,4 +1,4 @@
-# Coding-Assignment-Data-Bias README
+# Perspective API Data Bias Analysis README
 
 Using the Perspective API, the accuracy of whether or not the API accurately labeled a given statement as Toxic (score of over 0.5) or Non-Toxic (score of less than 0.5) was tested. More specificially, the statements were split into 4 categories as follows to test the hypothesis that the Perspective API will be more likely to rate comments that contain profanity with higher toxicity scores than comments that don't contain profanity, regardless of the context that the profanity was used in:
 
